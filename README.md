@@ -65,8 +65,8 @@ Here are some ideas to get you started:
 
 
 <p align="center">
-    <a href="https://github.com/Aakash-Naykude/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Aakash Naykude's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Aakash-Naykude&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    <a href="https://github.com/madhuri7patel">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Madhuri Patelstreak" src="https://github-readme-streak-stats.herokuapp.com/?user=Madhuri Patel&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
 
@@ -74,7 +74,7 @@ Here are some ideas to get you started:
 
   <br/>
     <a href="https://maddhrsde.dorik.io/"><img alt="Madhuri Patel Github Stats" style="width:57%" src="https://github-readme-stats.vercel.app/api?username=Aakash-Naykude&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/Aakash-Naykude/github-readme-stats"><img alt="Aakash Naykude's Top Languages" style="width:42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aakash-Naykude&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+<!--   <a href="https://github.com/Aakash-Naykude/github-readme-stats"><img alt="Aakash Naykude's Top Languages" style="width:42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aakash-Naykude&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a> -->
 
 
 <br/>
@@ -89,7 +89,7 @@ Here are some ideas to get you started:
 
 ## ❤ Views and Followers
 
-<a href="https://github.com/Aakash-Naykude/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=Aakash-Naykude">
+<a href="https://github.com/madhuri7patel">
+    <img src="https://komarev.com/ghpvc/?username=Madhuri Patel">
 </a>
-<a href="https://github.com/Aakash-Naykude?tab=followers"><img src="https://img.shields.io/github/followers/Aakash-Naykude?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/madhuri7patel"><img src="https://img.shields.io/github/followers/Madhuri patel?label=Followers&style=social" alt="GitHub Badge"></a>
