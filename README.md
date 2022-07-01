@@ -1,8 +1,8 @@
-### Hi there 👋 I am Madhuri Patel
+<!-- ### Hi there 👋 I am Madhuri Patel -->
 
 <!--
 **madhuri7patel/madhuri7patel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+<!-- 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -15,10 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
+ -->
 <p align="center"><a href="#"><img style="margin-left:27%" width="46%" align="center" height="auto" src="https://sagarmude.netlify.app/static/media/avatar.711110cc.svg" height="175px"/></a></p>
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, My Name is Aakash Naykude</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, My Name is Madhuri Patel</h1>
 <h2 align="center">I'm a Full Stack Developer.</h2>
 
 ## 🙋‍♂️ About Me
@@ -27,19 +27,19 @@ Here are some ideas to get you started:
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://aakash-naykude-portfolio.vercel.app/)**
+- 👨‍💻 All of my projects are available at **[My Portfolio]()**
 
-- 📫 How to reach me **aakshnaykude123@gmail.com**
+- 📫 How to reach me **madhuri7patel@gmail.com**
 
-- 🌱 I am also interested in playing football and chess.
+- 🌱 I am also interested in playing Badminton and chess.
 
 ## Connect with me:
 
 <p align="center">
 
-<a href = "https://www.linkedin.com/in/aakash-naykude-6659611a4/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://twitter.com/aakashnaykude"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = "https://www.instagram.com/aakash_naykude/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+<a href = "https://www.linkedin.com/in/madhuri-patel-1230a7201/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<!-- <a href = "https://twitter.com/aakashnaykude"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+<a href = "https://www.instagram.com/aakash_naykude/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a> -->
 </p>
 
 ## 🚀 Languages and Tools:
@@ -73,7 +73,7 @@ Here are some ideas to get you started:
 ## 📊 My Github Stats
 
   <br/>
-    <a href="https://github.com/Aakash-Naykude/github-readme-stats"><img alt="Aakash Naykude's Github Stats" style="width:57%" src="https://github-readme-stats.vercel.app/api?username=Aakash-Naykude&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <a href="https://maddhrsde.dorik.io/"><img alt="Aakash Naykude's Github Stats" style="width:57%" src="https://github-readme-stats.vercel.app/api?username=Aakash-Naykude&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <a href="https://github.com/Aakash-Naykude/github-readme-stats"><img alt="Aakash Naykude's Top Languages" style="width:42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aakash-Naykude&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
 
 
