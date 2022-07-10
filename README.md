@@ -2,7 +2,7 @@
 
 <!--
 **madhuri7patel/madhuri7patel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-<!-- 
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
- -->
+ 
 <p align="center"><a href="#"><img style="margin-left:27%" width="46%" align="center" height="auto" src="https://sagarmude.netlify.app/static/media/avatar.711110cc.svg" height="175px"/></a></p>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, My Name is Madhuri Patel</h1>
@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 👨‍💻 All of my projects are available at **[My Portfolio]()**
+- 👨‍💻 All of my projects are available at **[My Portfolio](https://maddhrsde.dorik.io)**
 
 - 📫 How to reach me **madhuri7patel@gmail.com**
 
@@ -66,23 +66,23 @@ Here are some ideas to get you started:
 
 <p align="center">
     <a href="https://github.com/madhuri7patel">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Madhuri Patelstreak" src="https://github-readme-streak-stats.herokuapp.com/?user=Madhuri Patel&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Madhuri Patelstreak" src="https://github-readme-streak-stats.herokuapp.com/?user=madhuri7patel&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
 
 ## 📊 My Github Stats
 
-<!--   <br/>
-    <a href="https://maddhrsde.dorik.io/"><img alt="Madhuri Patel Github Stats" style="width:57%" src="https://github-readme-stats.vercel.app/api?username=Aakash-Naykude&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-<!--   <a href="https://github.com/Aakash-Naykude/github-readme-stats"><img alt="Aakash Naykude's Top Languages" style="width:42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aakash-Naykude&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a> -->
+<br/>
+    <a href="https://maddhrsde.dorik.io/"><img alt="Madhuri Patel Github Stats" style="width:57%" src="https://github-readme-stats.vercel.app/api?username=madhuri7patel&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+<a href="https://github.com/madhuri7patel/github-readme-stats"><img alt="madhu's Top Languages" style="width:42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=madhuri7patel&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
 
 
-<br/> -->
+<br/> 
 
-<!-- <a href="https://github.com/Aakash-Naykude/github-readme-activity-graph"><img alt="Aakash Naykude's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Aakash-Naykude&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a> -->
+<a href="https://github.com/madhuri7patel/github-readme-activity-graph"><img alt="Aakash Naykude's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=madhuri7patel&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 <br/>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Aakash-Naykude)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=madhuri7patel)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 
