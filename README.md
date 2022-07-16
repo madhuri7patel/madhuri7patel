@@ -79,8 +79,8 @@ Here are some ideas to get you started:
 
 <br/> 
 
-<a href="https://github.com/madhuri7patel/github-readme-activity-graph"><img alt="Madhuri Patel" Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=madhuri7patel&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-<br/>
+<!-- <a href="https://github.com/madhuri7patel/github-readme-activity-graph"><img alt="Madhuri" Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=madhuri7patel&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<br/> -->
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=madhuri7patel)](https://github.com/ryo-ma/github-profile-trophy)
 
