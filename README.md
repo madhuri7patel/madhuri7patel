@@ -38,8 +38,8 @@ Here are some ideas to get you started:
 <p align="center">
 
 <a href = "https://www.linkedin.com/in/madhuri-patel-1230a7201/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<!-- <a href = "https://twitter.com/aakashnaykude"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = "https://www.instagram.com/aakash_naykude/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a> -->
+<!-- <a href = ""><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+<a href = ""><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a> -->
 </p>
 
 ## 🚀 Languages and Tools:
@@ -79,7 +79,7 @@ Here are some ideas to get you started:
 
 <br/> 
 
-<a href="https://github.com/madhuri7patel/github-readme-activity-graph"><img alt="Aakash Naykude's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=madhuri7patel&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/madhuri7patel/github-readme-activity-graph"><img alt="Madhu's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=madhuri7patel&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 <br/>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=madhuri7patel)](https://github.com/ryo-ma/github-profile-trophy)
