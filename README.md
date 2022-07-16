@@ -90,6 +90,6 @@ Here are some ideas to get you started:
 ## ❤ Views and Followers
 
 <a href="https://github.com/madhuri7patel">
-    <img src="https://komarev.com/ghpvc/?username=Madhuri Patel">
+    <img src="https://komarev.com/ghpvc/?username=madhuri7patel">
 </a>
-<a href="https://github.com/madhuri7patel"><img src="https://img.shields.io/github/followers/Madhuri patel?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/madhuri7patel"><img src="https://img.shields.io/github/followers/madhuri7patel?label=Followers&style=social" alt="GitHub Badge"></a>
