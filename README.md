@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 👨‍💻 All of my projects are available at **[https:portfolio-nine-taupe.vercel.app]**
+- 👨‍💻 All of my projects are available at **[https://portfolio-nine-taupe.vercel.app/]**
 
 - 📫 How to reach me **madhuri7patel@gmail.com**
 
