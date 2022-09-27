@@ -29,6 +29,8 @@ Here are some ideas to get you started:
 
 -  👨‍💻 All of my projects are available at **[My Portfolio](https://madhuri-portfolio-lac.vercel.app/)**
 
+- 📫 Please visit my linked in to know more about me **(https://www.linkedin.com/in/madhuri-patel-1230a7201/)**
+
 - 📫 How to reach me **madhuri7patel@gmail.com**
 
 - 🌱 I am also interested in playing Badminton and chess.
