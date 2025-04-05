@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
--  👨‍💻 All of my projects are available at **[My Portfolio](https://madhuri-portfolio-lac.vercel.app/)**
+-  👨‍💻 All of my projects are available at **[My Portfolio](https://madhuripatel.vercel.app/)**
 
 - 📫 Please visit my linked in to know more about me **[My LinkedIn](https://www.linkedin.com/in/madhuri-patel-1230a7201/)**
 
